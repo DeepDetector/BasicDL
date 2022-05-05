@@ -1,2 +1,5 @@
-# BasicDL
-Basic Deep Learning for Pytorch
+# Basic DeepLearning code for Pytorch
+- [ ] **To do list**
+  - [ ] Classifier Task
+  - [ ] Segmentation Task
+  - [ ] Detection Task
