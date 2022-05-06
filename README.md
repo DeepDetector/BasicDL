@@ -1,6 +1,6 @@
 # Basic DeepLearning code for Pytorch
 
-+ Before train our model, you should:
++ Before train your model, you should:
   - Install Pytorch Enviroment
   - Prepare your dataset
   
